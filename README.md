@@ -10,9 +10,9 @@ This repository contains a curated set of SQL queries completed as part of my pr
 - Handling edge cases using NULL
 
 Structure
-- selects.sql           # Basic SELECT and WHERE queries
-- joins.sql             # INNER, LEFT, and SELF JOINs
-- aggregates.sql        # COUNT, SUM, AVG, GROUP BY, HAVING
-- subqueries.sql        # Nested and correlated subqueries
-- nulls.sql             # Handling NULLs and conditional logic
+- selects.sql-----------# Basic SELECT and WHERE queries
+- joins.sql-------------# INNER, LEFT, and SELF JOINs
+- aggregates.sql--------# COUNT, SUM, AVG, GROUP BY, HAVING
+- subqueries.sql--------# Nested and correlated subqueries
+- nulls.sql-------------# Handling NULLs and conditional logic
 
