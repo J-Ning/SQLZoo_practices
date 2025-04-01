@@ -9,6 +9,7 @@ This repository contains a curated set of SQL queries completed as part of my pr
 - Nested and correlated subqueries
 - Handling edge cases using NULL
 
+
 **Structure**
 - **selects.sql**
   - Basic SELECT and WHERE queries
