@@ -14,10 +14,12 @@ This repository contains a curated set of SQL queries completed as part of my pr
 - **selects.sql**
   - Basic SELECT and WHERE queries
 - **joins.sql**
-  - INNER, LEFT, and SELF JOINs
+  - INNER, OUTER 
 - **aggregates.sql**
   - COUNT, SUM, AVG, GROUP BY, HAVING
 - **subqueries.sql**
   - Nested and correlated subqueries
 - **nulls.sql**
   - Handling NULLs and conditional logic
+- **self_joins.sql**
+  - Self JOIN queries
